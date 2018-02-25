@@ -1,0 +1,5 @@
+client_id = 'bb2FsXagbwqfXw'
+client_secret = 'K9qBbaZ92XYv2JYQJHBpWPNc0S4'
+password = 'go2swim'
+user_agent = 'PyEng Bot 0.1'
+username = 'MithilV'
